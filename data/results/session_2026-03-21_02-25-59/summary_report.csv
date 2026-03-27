@@ -1,0 +1,7 @@
+Scenario,Algorithm,Avg_Cost,Std_Dev,Best_Cost,Avg_Time,Runs,Best_In_Cost,Fastest_In_Time
+File-sample_cities.csv,ACO,132.0271,0.0,132.0271,5.9617,5,🏆 Winner,
+File-sample_cities.csv,GA,132.0271,0.0,132.0271,0.5438,5,🏆 Winner,
+File-sample_cities.csv,PSO,134.7418,4.3689,132.0271,0.2804,5,,⚡ Fastest
+File-yemen.csv,ACO,4528.2821,0.0,4528.2821,41.448,5,🏆 Winner,
+File-yemen.csv,GA,4665.8586,25.2805,4641.2553,0.7893,5,,
+File-yemen.csv,PSO,5576.2648,324.8862,5000.7885,0.3343,5,,⚡ Fastest

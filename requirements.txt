@@ -1,0 +1,35 @@
+# ==========================================
+# TSP Project - Ultimate Requirements (Python 3.12 Compatible)
+# ==========================================
+
+# 1. Core Numerical & Scientific Computing
+# تم التحديث لدعم Python 3.12 بشكل مستقر
+numpy>=1.26.0
+scipy>=1.13.0
+
+# 2. Data Manipulation & Analysis
+pandas>=2.2.0
+
+# 3. Visualization (Static & Reports)
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# 4. Graph Theory Utilities
+networkx>=3.2.1
+
+# 5. User Experience (UX)
+tqdm>=4.66.0
+
+# 6. Graphical User Interface (GUI)
+# إصدارات PyQt6 المستقرة جداً مع بايثون 12
+PyQt6>=6.6.1
+PyQt6-Qt6>=6.6.1
+PyQt6-sip>=13.6.0
+
+# 7. High-Performance Plotting for GUI
+# ضروري جداً استخدام هذا الإصدار لحل مشاكل التوافق مع PyQt6
+pyqtgraph>=0.13.7
+
+# 8. Development & Testing Tools
+black>=24.0.0
+pytest>=8.0.0
